@@ -6,15 +6,15 @@ BattleCity es una adaptación del clásico juego de NES, lanzado originalmente e
 
 En el juego, controlas un tanque cuyo objetivo es defender la base militar de los ataques enemigos mientras destruyes a todos los tanques rivales. Si los enemigos destruyen la base o pierdes todas tus vidas, el juego termina. 
 
-Pantalla principal del juego
-![Pantalla Principal](images/main.png)
+Pantalla principal del juego  
+![Pantalla Principal](images/main.png)  
 
-Gameplay 
-![Gameplay 1](images/gameplay1.png)
-![Gameplay 2](images/gameplay2.png)
+Gameplay   
+![Gameplay 1](images/gameplay1.png)  
+![Gameplay 2](images/gameplay2.png)  
 
-Resumen al final del nivel
-![Estadísticas](images/stats.png)
+Resumen al final del nivel  
+![Estadísticas](images/stats.png)  
 
 ## Creación de Niveles
 El proyecto incluye un editor para diseñar niveles personalizados, ofreciendo libertad para elegir entre ocho mapas predefinidos o crear escenarios completamente nuevos. Estos niveles pueden ser jugados al editar el archivo main para seleccionarlos.
@@ -33,6 +33,6 @@ El proyecto incluye un editor para diseñar niveles personalizados, ofreciendo l
 ## Configuración
 El juego utiliza un archivo de configuración para ajustar:
 - Velocidades de movimiento y disparo.
-- Frecuencia de aparición de enemigos.
+- Frecuencia de aparición de enemigos.  
 
 ![Configuración](images/config.png)
